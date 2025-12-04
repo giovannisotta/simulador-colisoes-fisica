@@ -1,4 +1,9 @@
 {
+    "TELA": {
+        "WIDTH" : 1920,
+        "HEIGHT": 1080,
+        "TITLE": "simulador"
+    },
     "DIMENSOES": {
         "LARGURA": 1600,
         "ALTURA": 1200,
