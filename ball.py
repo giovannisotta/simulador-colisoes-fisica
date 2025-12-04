@@ -14,7 +14,7 @@ class Bola:
     3. Tratar colisões elásticas com as paredes da caixa.
     """
     
-    def __init__(self, largura, altura, profundidade, vel_max, cor, vel_min, raio, massa):
+    def __init__(self, largura, altura, profundidade, vel_max, cor, raio, massa):
         """
         Inicializa uma nova instância da Bola com parâmetros dimensionais e físicos.
 

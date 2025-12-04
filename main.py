@@ -23,7 +23,6 @@ PROFUNDIDADE = CONFIG['DIMENSOES']['PROFUNDIDADE']
 
 # Parâmetros de Física
 VEL_MAX = CONFIG['FISICA']['VEL_MAX']
-VEL_MIN = CONFIG['FISICA']['VEL_MIN']
 RAIO_PADRAO = CONFIG['FISICA']['RAIO_PADRAO']
 NUM_BOLAS = CONFIG['FISICA']['NUM_BOLAS']
 EPSILON = CONFIG['FISICA']['EPSILON']
@@ -51,7 +50,7 @@ scene.center = vector(LARGURA/2, ALTURA/2, PROFUNDIDADE/2)
 
 # Cria a lista de bolas, inicializando 'NUM_BOLAS' objetos Bola 
 # com parâmetros e posições padrões do arquivo config.json.
-lista_de_bolas = [Bola(LARGURA, ALTURA, PROFUNDIDADE, VEL_MAX,color.white, VEL_MIN, RAIO_PADRAO,MASSA_PADRAO) 
+lista_de_bolas = [Bola(LARGURA, ALTURA, PROFUNDIDADE, VEL_MAX,color.white, RAIO_PADRAO,MASSA_PADRAO) 
                   for _ in range(NUM_BOLAS)]
 
 #Loop principal

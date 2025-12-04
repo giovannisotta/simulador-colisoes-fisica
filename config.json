@@ -11,10 +11,9 @@
     },
     "FISICA": {
         "VEL_MAX": 1000.0,
-        "VEL_MIN": 100.0,
-        "RAIO_PADRAO": 100.0,
+        "RAIO_PADRAO": 50.0,
         "MASSA_PADRAO": 5.0,
-        "NUM_BOLAS": 20,
+        "NUM_BOLAS": 60,
         "EPSILON": 0.000001
     },
     "TEMPO": {
