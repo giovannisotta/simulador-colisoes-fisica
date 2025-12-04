@@ -1,0 +1,18 @@
+{
+    "DIMENSOES": {
+        "LARGURA": 1600,
+        "ALTURA": 1200,
+        "PROFUNDIDADE": 1600
+    },
+    "FISICA": {
+        "VEL_MAX": 1000.0,
+        "VEL_MIN": 100.0,
+        "RAIO_PADRAO": 100.0,
+        "MASSA_PADRAO": 5.0,
+        "NUM_BOLAS": 20,
+        "EPSILON": 0.000001
+    },
+    "TEMPO": {
+        "FPS": 60
+    }
+}
