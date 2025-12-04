@@ -12,3 +12,6 @@ Todos os parâmetros da simulação (número de esferas, dimensões, velocidades
 Link do Vídeo Explicativo:
 
 [SUBSTITUIR: Coloque o Link do seu Vídeo no YouTube aqui]
+
+Referencia para o calculo das colisões entre as bolas sem trigonometria: 
+  https://imada.sdu.dk/u/rolf/Edu/DM842/E17/2dcollisions.pdf
