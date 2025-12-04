@@ -13,8 +13,7 @@
         "VEL_MAX": 1000.0,
         "RAIO_PADRAO": 50.0,
         "MASSA_PADRAO": 5.0,
-        "NUM_BOLAS": 60,
-        "EPSILON": 0.000001
+        "NUM_BOLAS": 60
     },
     "TEMPO": {
         "FPS": 60
